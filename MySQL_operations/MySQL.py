@@ -66,7 +66,7 @@ def reset_password(username, old_password, new_password):
 def main():
 
     # Watermark
-    st.markdown("<p style='text-align:left;color:gray;font-size:small;'>created by: Dopana Rohit Kumar</p>", unsafe_allow_html=True)
+    st.markdown("<p style='text-align:left;color:gray;font-size:small;'>Developed by: Dopana Rohit Kumar</p>", unsafe_allow_html=True)
     
     st.title("🤖MySQL with Streamlit web app")
 
