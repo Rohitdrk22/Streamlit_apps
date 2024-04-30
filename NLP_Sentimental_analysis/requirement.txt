@@ -1,0 +1,7 @@
+stremlit
+panda
+numpy 
+matplotlib
+seaborn
+wordcloud
+nltk
